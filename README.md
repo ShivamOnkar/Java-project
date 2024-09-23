@@ -1,4 +1,4 @@
-# Java-project
+# Java-Project
 <br>
 Random Password Generator
 
